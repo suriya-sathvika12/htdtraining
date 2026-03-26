@@ -1,0 +1,8 @@
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\assignment1\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\assignment1\assignment1\bin\Debug\assignment1.exe
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\assignment1\assignment1\bin\Debug\assignment1.pdb
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\assignment1\assignment1\obj\Debug\assignment1.csproj.AssemblyReference.cache
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\assignment1\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\assignment1\assignment1\obj\Debug\assignment1.exe
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\assignment1\assignment1\obj\Debug\assignment1.pdb
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\assignment1\assignment1\obj\Debug\assignment1.exe.config
