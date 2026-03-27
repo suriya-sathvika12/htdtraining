@@ -1,0 +1,8 @@
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\Day 4 Hands on\Day 4 Hands on\bin\Debug\Day 4 Hands on.exe.config
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\Day 4 Hands on\Day 4 Hands on\bin\Debug\Day 4 Hands on.exe
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\Day 4 Hands on\Day 4 Hands on\bin\Debug\Day 4 Hands on.pdb
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\Day 4 Hands on\Day 4 Hands on\obj\Debug\Day 4 Hands on.csproj.AssemblyReference.cache
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\Day 4 Hands on\Day 4 Hands on\obj\Debug\Day 4 Hands on.csproj.CoreCompileInputs.cache
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\Day 4 Hands on\Day 4 Hands on\obj\Debug\Day 4 Hands on.exe
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\Day 4 Hands on\Day 4 Hands on\obj\Debug\Day 4 Hands on.pdb
+C:\Users\suriyasa\Desktop\DOTNET\Assignment\csharp\assignment1\Day 4 Hands on\Day 4 Hands on\obj\Debug\Day 4 Hands on.exe.config
