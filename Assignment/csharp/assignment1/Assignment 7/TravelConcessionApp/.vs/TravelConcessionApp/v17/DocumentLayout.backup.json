@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\Assignment\\csharp\\assignment1\\TravelConcessionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1BF4E0-7C56-417B-B262-A1B9F5D9F625}|TravelConcessionApp\\TravelConcessionApp.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\assignment\\csharp\\assignment1\\travelconcessionapp\\travelconcessionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1BF4E0-7C56-417B-B262-A1B9F5D9F625}|TravelConcessionApp\\TravelConcessionApp.csproj|solutionrelative:travelconcessionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30BF5F6-0103-479C-864E-02B4AAEF734B}|TravelLibrary\\TravelLibrary.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\assignment\\csharp\\assignment1\\travelconcessionapp\\travellibrary\\concession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30BF5F6-0103-479C-864E-02B4AAEF734B}|TravelLibrary\\TravelLibrary.csproj|solutionrelative:travellibrary\\concession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Concession.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\Assignment\\csharp\\assignment1\\TravelConcessionApp\\TravelLibrary\\Concession.cs",
+              "RelativeDocumentMoniker": "TravelLibrary\\Concession.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\Assignment\\csharp\\assignment1\\TravelConcessionApp\\TravelLibrary\\Concession.cs",
+              "RelativeToolTip": "TravelLibrary\\Concession.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:54:32.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\Assignment\\csharp\\assignment1\\TravelConcessionApp\\TravelConcessionApp\\Program.cs",
+              "RelativeDocumentMoniker": "TravelConcessionApp\\Program.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\Assignment\\csharp\\assignment1\\TravelConcessionApp\\TravelConcessionApp\\Program.cs",
+              "RelativeToolTip": "TravelConcessionApp\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:26:34.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
