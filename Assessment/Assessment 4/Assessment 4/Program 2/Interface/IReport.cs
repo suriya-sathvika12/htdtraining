@@ -1,0 +1,4 @@
+﻿interface IReport
+{
+    void Generate();
+}
