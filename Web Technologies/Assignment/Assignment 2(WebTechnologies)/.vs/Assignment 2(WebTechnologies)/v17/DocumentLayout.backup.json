@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\Web Technologies\\Assignment\\Assignment 2(WebTechnologies)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B22F85-AEC5-42F4-BAC0-AD6120D1260E}|Assignment 2(WebTechnologies)\\Assignment 2(WebTechnologies).csproj|c:\\users\\suriyasa\\desktop\\dotnet\\web technologies\\assignment\\assignment 2(webtechnologies)\\assignment 2(webtechnologies)\\javascript\\assignment 2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4B22F85-AEC5-42F4-BAC0-AD6120D1260E}|Assignment 2(WebTechnologies)\\Assignment 2(WebTechnologies).csproj|solutionrelative:assignment 2(webtechnologies)\\javascript\\assignment 2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment 2.html",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\Web Technologies\\Assignment\\Assignment 2(WebTechnologies)\\Assignment 2(WebTechnologies)\\Javascript\\Assignment 2.html",
+              "RelativeDocumentMoniker": "Assignment 2(WebTechnologies)\\Javascript\\Assignment 2.html",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\Web Technologies\\Assignment\\Assignment 2(WebTechnologies)\\Assignment 2(WebTechnologies)\\Javascript\\Assignment 2.html",
+              "RelativeToolTip": "Assignment 2(WebTechnologies)\\Javascript\\Assignment 2.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-09T08:44:33.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

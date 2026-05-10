@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript Programs</title>
+</head>
+<body>
+    <script>
+
+        // 1. Area of Triangle
+
+        let side1 = 5;
+        let side2 = 6;
+        let side3 = 7;
+        let s = (side1 + side2 + side3) / 2;
+        let area = Math.sqrt(
+            s * (s - side1) * (s - side2) * (s - side3)
+        );
+        console.log("1. Area of Triangle:", area);
+
+        // 2. Star Pattern
+
+        console.log("2. Star Pattern");
+        for (let i = 1; i <= 5; i++) {
+            let pattern = "";
+            for (let j = 1; j <= i; j++) {
+                pattern += "* ";
+            }
+            console.log(pattern);
+        }
+
+        // 3. Leap Year Program
+
+        let year = 2024;
+        if ((year % 4 === 0 && year % 100 !== 0) || (year % 400 === 0)) {
+            console.log("3. " + year + " is a Leap Year");
+        } else {
+            console.log("3. " + year + " is not a Leap Year");
+        }
+
+        // 4. Days Left Until Independence Day
+        let today = new Date();
+        let currentYear = today.getFullYear();
+        let independenceDay = new Date(currentYear, 7, 15);
+        if (today > independenceDay) {
+            independenceDay = new Date(currentYear + 1, 7, 15);
+        }
+        let difference = independenceDay - today;
+        let daysLeft = Math.ceil(
+            difference / (1000 * 60 * 60 * 24)
+        );
+        console.log(
+            "4. Days left until Independence Day:",
+            daysLeft
+        );
+        
+    </script>
+
+</body>
+</html>
