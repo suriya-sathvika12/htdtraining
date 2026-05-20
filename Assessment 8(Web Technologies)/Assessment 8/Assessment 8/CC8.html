@@ -1,0 +1,194 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assessment 8</title>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <style>
+        body {
+            font-family: Arial;
+            margin: 20px;
+        }
+
+        .box {
+            border: 2px solid gray;
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            color: darkslateblue;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 10px;
+        }
+    </style>
+
+</head>
+<body>
+
+    <h1>Web Technologies</h1>
+
+    <!-- Question 1 -->
+    <div class="box">
+        <h2>1. Multiplication and Division of Two Numbers</h2>
+        <label>1st Number :</label>
+        <input type="number" id="num1"><br><br>
+        <label>2nd Number :</label>
+        <input type="number" id="num2"><br><br>
+        <button onclick="multiply()">Multiply</button>
+        <button onclick="divide()">Divide</button>
+        <h3>Result : <span id="result"></span></h3>
+        <script>
+            function multiply() {
+                let num1 = document.getElementById("num1").value;
+                let num2 = document.getElementById("num2").value;
+                document.getElementById("result").innerHTML = num1 * num2;
+            }
+            function divide() {
+                let num1 = document.getElementById("num1").value;
+                let num2 = document.getElementById("num2").value;
+                document.getElementById("result").innerHTML = num1 / num2;
+            }
+        </script>
+    </div>
+
+    <!-- Question 2 -->
+    <div class="box">
+        <h2>2. Odd or Even Numbers from 0 to 15</h2>
+        <div id="output"></div>
+        <script>
+            for (let i = 0; i <= 15; i++) {
+                if (i % 2 == 0) {
+                    document.getElementById("output").innerHTML +=
+                        i + " is even<br>";
+                }
+                else {
+                    document.getElementById("output").innerHTML +=
+                        i + " is odd<br>";
+                }
+            }
+        </script>
+    </div>
+
+    <!-- Question 3 -->
+    <div class="box">
+        <h2>3. Button Click Event Listener</h2>
+        <button id="clickBtn">Click Me</button>
+        <script>
+            document.getElementById("clickBtn").addEventListener("click", function () {
+                console.log("Button was clicked!");
+                alert("Button was clicked!");
+            });
+        </script>
+    </div>
+
+    <!-- Question 4 -->
+    <div class="box">
+        <h2>4. Hide All Odd Table Rows</h2>
+        <table id="myTable">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+            </tr>
+
+            <tr>
+                <td>1</td>
+                <td>Suriya</td>
+            </tr>
+
+            <tr>
+                <td>2</td>
+                <td>Rajesh</td>
+            </tr>
+
+            <tr>
+                <td>3</td>
+                <td>Anu</td>
+            </tr>
+
+            <tr>
+                <td>4</td>
+                <td>Rahul</td>
+            </tr>
+
+        </table>
+        <br>
+        <button id="hideRows">Hide Odd Rows</button>
+        <script>
+            $("#hideRows").click(function () {
+
+                $("#myTable tr:odd").hide();
+            });
+        </script>
+    </div>
+
+    <!-- Question 5 -->
+    <div class="box">
+        <h2>5. Apply Background to h1 inside div</h2>
+        <div>
+            <h1>Heading One</h1>
+            <h1>Heading Two</h1>
+        </div>
+        <button id="applyBg">Apply Background</button>
+        <script>
+            $("#applyBg").click(function () {
+                $("div h1").css("background-color", "red");
+            });
+        </script>
+    </div>
+
+    <!-- Question 6 -->
+    <div class="box">
+        <h2>6. Get Single Element from Selection</h2>
+        <ul id="courseList1">
+            <li>CSHARP</li>
+            <li>SQL</li>
+            <li>ADO</li>
+        </ul>
+        <button id="getElement">Get First Element</button>
+        <p id="result1"></p>
+        <script>
+            $("#getElement").click(function () {
+                let firstItem = $("#courseList1 li").first().text();
+                $("#result1").html("First Element : " + firstItem);
+            });
+        </script>
+    </div>
+
+    <!-- Question 7 -->
+    <div class="box">
+        <h2>7. Add Index Before List Items</h2>
+        <ul id="courseList2">
+            <li>CSHARP</li>
+            <li>SQL</li>
+            <li>ADO</li>
+        </ul>
+        <button id="addIndex">Add Index</button>
+        <script>
+            $("#addIndex").click(function () {
+                $("#courseList2 li").each(function (index) {
+                    $(this).prepend(index + " ");
+                });
+            });
+        </script>
+    </div>
+
+    <!-- Question 8 -->
+    <div class="box">
+        <h2>8. Append Paragraph when Input Changes</h2>
+        <input type="text" id="nameInput" placeholder="Type Something">
+        <script>
+            $("#nameInput").change(function () {
+                $(this).after("<p>Input field value has changed!</p>");
+            });
+        </script>
+    </div>
+</body>
+</html>

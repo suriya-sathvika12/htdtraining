@@ -1,0 +1,7 @@
+C:\Users\suriyasa\Desktop\DOTNET\Assessment 8(Web Technologies)\Assessment 8\Assessment 8\bin\Debug\Assessment 8.exe.config
+C:\Users\suriyasa\Desktop\DOTNET\Assessment 8(Web Technologies)\Assessment 8\Assessment 8\bin\Debug\Assessment 8.exe
+C:\Users\suriyasa\Desktop\DOTNET\Assessment 8(Web Technologies)\Assessment 8\Assessment 8\bin\Debug\Assessment 8.pdb
+C:\Users\suriyasa\Desktop\DOTNET\Assessment 8(Web Technologies)\Assessment 8\Assessment 8\obj\Debug\Assessment 8.csproj.AssemblyReference.cache
+C:\Users\suriyasa\Desktop\DOTNET\Assessment 8(Web Technologies)\Assessment 8\Assessment 8\obj\Debug\Assessment 8.csproj.CoreCompileInputs.cache
+C:\Users\suriyasa\Desktop\DOTNET\Assessment 8(Web Technologies)\Assessment 8\Assessment 8\obj\Debug\Assessment 8.exe
+C:\Users\suriyasa\Desktop\DOTNET\Assessment 8(Web Technologies)\Assessment 8\Assessment 8\obj\Debug\Assessment 8.pdb
