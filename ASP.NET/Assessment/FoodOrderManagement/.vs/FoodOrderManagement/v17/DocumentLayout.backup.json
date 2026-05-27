@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\foodordermanagement\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\foodordermanagement\\addeditmenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\addeditmenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\foodordermanagement\\orderstats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\orderstats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\asp.net\\assessment\\foodordermanagement\\foodordermanagement\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\foodordermanagement\\menudetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\menudetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\foodordermanagement\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\foodordermanagement\\menudetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\menudetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\foodordermanagement\\orderstats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\orderstats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\foodordermanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\foodordermanagement\\addeditmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\addeditmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\foodordermanagement\\menulist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\menulist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\foodordermanagement\\menulist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\menulist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\foodordermanagement\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\foodordermanagement\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\foodordermanagement\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8F5528B3-E4AE-4894-ABE4-782F9FA1D82D}|FoodOrderManagement\\FoodOrderManagement.csproj|solutionrelative:foodordermanagement\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuDetails.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\MenuDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuDetails.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\MenuDetails.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:56:47.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Login.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:44:43.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Login.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Login.aspx",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Login.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:39:46.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Logout.aspx.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Logout.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\Logout.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:59:31.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditMenu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\AddEditMenu.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\AddEditMenu.aspx.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\AddEditMenu.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\AddEditMenu.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:56:15.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStats.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\OrderStats.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\OrderStats.aspx.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\OrderStats.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\OrderStats.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:57:43.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuDetails.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\MenuDetails.aspx",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuDetails.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\MenuDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:40:44.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderStats.aspx",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\OrderStats.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\OrderStats.aspx",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\OrderStats.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\OrderStats.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:41:02.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Web.config",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Web.config",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Web.config",
+              "RelativeToolTip": "FoodOrderManagement\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-27T04:37:10.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddEditMenu.aspx",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\AddEditMenu.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\AddEditMenu.aspx",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\AddEditMenu.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\AddEditMenu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:40:24.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuList.aspx",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuList.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\MenuList.aspx",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuList.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\MenuList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:40:07.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuList.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuList.aspx.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\MenuList.aspx.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\MenuList.aspx.cs",
+              "RelativeToolTip": "FoodOrderManagement\\MenuList.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:50:49.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Global.asax.cs",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Global.asax.cs",
+              "RelativeToolTip": "FoodOrderManagement\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:57:10.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Site.Master",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Site.Master",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Site.Master",
+              "RelativeToolTip": "FoodOrderManagement\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:43:32.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Logout.aspx",
+              "RelativeDocumentMoniker": "FoodOrderManagement\\Logout.aspx",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\ASP.NET\\Assessment\\FoodOrderManagement\\FoodOrderManagement\\Logout.aspx",
+              "RelativeToolTip": "FoodOrderManagement\\Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:41:26.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
