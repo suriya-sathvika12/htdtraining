@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ContactApp.Models.Contact>
+
+<h2>Contact List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.FirstName @item.LastName</td>
+            <td>@item.Email</td>
+            <td>
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>

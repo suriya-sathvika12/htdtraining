@@ -1,0 +1,24 @@
+﻿@model ContactApp.Models.Contact
+
+<h2>Create Contact</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        Id: <input type="text" name="Id" />
+    </div>
+
+    <div>
+        First Name: <input type="text" name="FirstName" />
+    </div>
+
+    <div>
+        Last Name: <input type="text" name="LastName" />
+    </div>
+
+    <div>
+        Email: <input type="text" name="Email" />
+    </div>
+
+    <input type="submit" value="Save" />
+}
