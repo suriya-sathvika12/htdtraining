@@ -1,0 +1,30 @@
+﻿
+@model IEnumerable<MoviesMVC.Models.Movie>
+
+<h2>Movies List</h2>
+
+<p>@Html.ActionLink("Add Movie", "Create")</p>
+
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Director</th>
+        <th>Date</th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Mid</td>
+            <td>@item.MovieName</td>
+            <td>@item.DirectorName</td>
+            <td>@item.DateOfRelease</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Mid }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Mid })
+            </td>
+        </tr>
+    }
+</table>

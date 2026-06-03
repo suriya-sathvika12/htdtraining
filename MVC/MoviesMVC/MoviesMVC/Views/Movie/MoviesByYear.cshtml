@@ -1,0 +1,9 @@
+﻿
+@model IEnumerable<MoviesMVC.Models.Movie>
+
+<h2>Movies By Year</h2>
+
+@foreach (var m in Model)
+{
+    <p>@m.MovieName - @m.DateOfRelease</p>
+}

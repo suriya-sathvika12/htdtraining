@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\NorthwindMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB9D45-9B1B-4160-9930-5F12C8C2C36B}|NorthwindMVC\\NorthwindMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\northwindmvc\\northwindmvc\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AB9D45-9B1B-4160-9930-5F12C8C2C36B}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB9D45-9B1B-4160-9930-5F12C8C2C36B}|NorthwindMVC\\NorthwindMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\northwindmvc\\northwindmvc\\views\\code\\germanycustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01AB9D45-9B1B-4160-9930-5F12C8C2C36B}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\views\\code\\germanycustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB9D45-9B1B-4160-9930-5F12C8C2C36B}|NorthwindMVC\\NorthwindMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\northwindmvc\\northwindmvc\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01AB9D45-9B1B-4160-9930-5F12C8C2C36B}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AB9D45-9B1B-4160-9930-5F12C8C2C36B}|NorthwindMVC\\NorthwindMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\northwindmvc\\northwindmvc\\northwindmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{01AB9D45-9B1B-4160-9930-5F12C8C2C36B}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\northwindmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerByOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\NorthwindMVC\\NorthwindMVC\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Views\\Code\\CustomerByOrder.cshtml",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\NorthwindMVC\\NorthwindMVC\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeToolTip": "NorthwindMVC\\Views\\Code\\CustomerByOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T04:50:05.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GermanyCustomers.cshtml",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\NorthwindMVC\\NorthwindMVC\\Views\\Code\\GermanyCustomers.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Views\\Code\\GermanyCustomers.cshtml",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\NorthwindMVC\\NorthwindMVC\\Views\\Code\\GermanyCustomers.cshtml",
+              "RelativeToolTip": "NorthwindMVC\\Views\\Code\\GermanyCustomers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T04:48:40.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\NorthwindMVC\\NorthwindMVC\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Controllers\\CodeController.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\NorthwindMVC\\NorthwindMVC\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "NorthwindMVC\\Controllers\\CodeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:43:36.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NorthwindModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\NorthwindMVC\\NorthwindMVC\\NorthwindModel.edmx",
+              "RelativeDocumentMoniker": "NorthwindMVC\\NorthwindModel.edmx",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\NorthwindMVC\\NorthwindMVC\\NorthwindModel.edmx [Diagram1]",
+              "RelativeToolTip": "NorthwindMVC\\NorthwindModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-06-03T04:41:47.012Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

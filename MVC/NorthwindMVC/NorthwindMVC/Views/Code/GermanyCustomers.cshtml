@@ -1,0 +1,23 @@
+﻿
+@model IEnumerable<NorthwindMVC.Customer>
+
+<h2>Customers From Germany</h2>
+
+<table border="1">
+    <tr>
+        <th>Customer ID</th>
+        <th>Company Name</th>
+        <th>Contact Name</th>
+        <th>Country</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CustomerID</td>
+            <td>@item.CompanyName</td>
+            <td>@item.ContactName</td>
+            <td>@item.Country</td>
+        </tr>
+    }
+</table>

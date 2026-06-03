@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\moviesmvc\\moviesmvc\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|solutionrelative:moviesmvc\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\moviesmvc\\moviesmvc\\views\\movie\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|solutionrelative:moviesmvc\\views\\movie\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\moviesmvc\\moviesmvc\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|solutionrelative:moviesmvc\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\moviesmvc\\moviesmvc\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|solutionrelative:moviesmvc\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\moviesmvc\\moviesmvc\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|solutionrelative:moviesmvc\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\moviesmvc\\moviesmvc\\views\\movie\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|solutionrelative:moviesmvc\\views\\movie\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\moviesmvc\\moviesmvc\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|solutionrelative:moviesmvc\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\moviesmvc\\moviesmvc\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|solutionrelative:moviesmvc\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\moviesmvc\\moviesmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|solutionrelative:moviesmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\moviesmvc\\moviesmvc\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|solutionrelative:moviesmvc\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\moviesmvc\\moviesmvc\\migrations\\202606030517451_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|solutionrelative:moviesmvc\\migrations\\202606030517451_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\moviesmvc\\moviesmvc\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|solutionrelative:moviesmvc\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|c:\\users\\suriyasa\\desktop\\dotnet\\mvc\\moviesmvc\\moviesmvc\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8AD07-08F3-4749-A6A8-9BCAA0C28B1B}|MoviesMVC\\MoviesMVC.csproj|solutionrelative:moviesmvc\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesByYear.cshtml",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Views\\Movie\\MoviesByYear.cshtml",
+              "RelativeDocumentMoniker": "MoviesMVC\\Views\\Movie\\MoviesByYear.cshtml",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Views\\Movie\\MoviesByYear.cshtml",
+              "RelativeToolTip": "MoviesMVC\\Views\\Movie\\MoviesByYear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:38:47.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MoviesMVC\\Views\\Movie\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "MoviesMVC\\Views\\Movie\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:38:05.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Views\\Movie\\Create.cshtml",
+              "RelativeDocumentMoniker": "MoviesMVC\\Views\\Movie\\Create.cshtml",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Views\\Movie\\Create.cshtml",
+              "RelativeToolTip": "MoviesMVC\\Views\\Movie\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:37:10.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "MoviesMVC\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "MoviesMVC\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:36:32.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MoviesMVC\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MoviesMVC\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:35:22.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "MoviesMVC\\Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "MoviesMVC\\Repository\\MovieRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:34:27.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesByDirector.cshtml",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Views\\Movie\\MoviesByDirector.cshtml",
+              "RelativeDocumentMoniker": "MoviesMVC\\Views\\Movie\\MoviesByDirector.cshtml",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Views\\Movie\\MoviesByDirector.cshtml",
+              "RelativeToolTip": "MoviesMVC\\Views\\Movie\\MoviesByDirector.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:39:12.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "MoviesMVC\\Repository\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "MoviesMVC\\Repository\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:33:42.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "202606030517451_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Migrations\\202606030517451_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MoviesMVC\\Migrations\\202606030517451_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Migrations\\202606030517451_InitialCreate.cs",
+              "RelativeToolTip": "MoviesMVC\\Migrations\\202606030517451_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:17:47.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MoviesMVC\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MoviesMVC\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:16:23.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Web.config",
+              "RelativeDocumentMoniker": "MoviesMVC\\Web.config",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Web.config",
+              "RelativeToolTip": "MoviesMVC\\Web.config",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-03T05:10:45.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Models\\MovieContext.cs",
+              "RelativeDocumentMoniker": "MoviesMVC\\Models\\MovieContext.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Models\\MovieContext.cs",
+              "RelativeToolTip": "MoviesMVC\\Models\\MovieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:10:02.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MoviesMVC\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\suriyasa\\Desktop\\DOTNET\\MVC\\MoviesMVC\\MoviesMVC\\Models\\Movie.cs",
+              "RelativeToolTip": "MoviesMVC\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:09:19.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
