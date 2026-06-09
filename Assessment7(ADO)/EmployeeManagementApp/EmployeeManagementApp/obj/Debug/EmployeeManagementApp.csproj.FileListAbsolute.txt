@@ -1,8 +1,0 @@
-C:\Users\suriyasa\Desktop\DOTNET\Assessment7(ADO)\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe.config
-C:\Users\suriyasa\Desktop\DOTNET\Assessment7(ADO)\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe
-C:\Users\suriyasa\Desktop\DOTNET\Assessment7(ADO)\EmployeeManagementApp\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.pdb
-C:\Users\suriyasa\Desktop\DOTNET\Assessment7(ADO)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.AssemblyReference.cache
-C:\Users\suriyasa\Desktop\DOTNET\Assessment7(ADO)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CoreCompileInputs.cache
-C:\Users\suriyasa\Desktop\DOTNET\Assessment7(ADO)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe
-C:\Users\suriyasa\Desktop\DOTNET\Assessment7(ADO)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.pdb
-C:\Users\suriyasa\Desktop\DOTNET\Assessment7(ADO)\EmployeeManagementApp\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe.config
